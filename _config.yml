@@ -1,0 +1,10 @@
+domain: go.binarysouljour.me
+github_username:  mohan-ravichandran
+
+defaults:
+  - scope:
+      path: "modules"
+    values:
+      layout: imports
+      permalink: /:basename
+      branch: main
