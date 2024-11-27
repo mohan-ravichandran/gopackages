@@ -1,4 +1,0 @@
----
-repo: bubbletea
-branch: main
----
